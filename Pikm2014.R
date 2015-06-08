@@ -1,3 +1,9 @@
+#Title: Two Phases Outlier Detection in Different Subspaces
+#PhD Workshop PIKM at CIKM 2014
+#http://dl.acm.org/citation.cfm?id=2668046#references
+# Author: Zhana
+# Email: znabao@ruri.waseda.jp
+
 library(ROCR)
 dm = 100
 pn = 500
